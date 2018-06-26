@@ -1,4 +1,4 @@
-# Recreating Blotter.js homepage
+# 🌈 Recreating Blotter.js homepage 🌈
 
 Using javascript to recreating blotter.js homepage.
 
